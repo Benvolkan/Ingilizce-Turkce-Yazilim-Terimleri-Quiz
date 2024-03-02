@@ -1,0 +1,1 @@
+Bu proje yazılıma yeni başlayan ya da bir süredir sektörün içinde olup yazılım terimlerine hakim olmadığını düşünenler için oluşturulmuştur. Basit bir test olmasına rağmen bu konuda eksik olanlara yardımcı olacağını umuyorum. Test 200 sorudan oluşmakta ve süre sınır olmamaktadır. Başarılar.
